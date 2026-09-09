@@ -1,0 +1,12 @@
+{
+	"additionalLanguages": [],
+	"en": {
+		"Card types": {
+			"Dinosaur": "Dinosaur",
+			"Area": "Area"
+		},
+		"UI text": {
+			"translations.customHelp": "This is the translation file's custom help string."
+		}
+	}
+}

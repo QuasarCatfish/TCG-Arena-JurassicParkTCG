@@ -1,0 +1,37 @@
+{
+	"st01-001": {
+		"id": "st01-001",
+		"face": {
+			"name": "Tyrannosaurus rex",
+			"type": "Dinosaur",
+			"cost": 7,
+			"image": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_TcQ0RkIr_808796df8072a0dc09ce2baa9de028ea0275a064_211x296.png"
+		},
+		"name": "Tyrannosaurus rex",
+		"type": "Dinosaur",
+		"cost": 7,
+		"color": ["red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"arxm-001": {
+		"id": "arxm-001",
+		"face": {
+			"name": "MARKER",
+			"type": "Area",
+			"cost": -1,
+			"image": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_gSrmFY5h_f926f891071a7307c47975a86ef17da4f5a705bf_211x296.png"
+		},
+		"name": "MARKER",
+		"type": "Area",
+		"cost": -1,
+		"color": ["colorless"],
+		"isisToken": true,
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	}
+}

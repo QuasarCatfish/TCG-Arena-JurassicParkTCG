@@ -1,0 +1,122 @@
+{
+	"name": "Jurassic Park TCG",
+	"menuBackgroundImage": "https://jurassicparkcard.com/theme/s007/img/visual_bg.jpg",
+	"cardRotation": -90,
+	"customHelp": "This is the game file's custom help string.",
+	"translationsUrl": "https://quasarcatfish.github.io/TCG-Arena-JurassicParkTCG/translations.json",
+	"defaultRessources": {
+		"backgrounds": ["https://jurassicparkcard.com/theme/s007/img/rulesTop.jpg"],
+		"decksUrl": "https://quasarcatfish.github.io/TCG-Arena-JurassicParkTCG/decks.json"
+	},
+	"cards": {
+		"dataUrl": "https://quasarcatfish.github.io/TCG-Arena-JurassicParkTCG/cards.json",
+		"cardBack": "https://quasarcatfish.github.io/TCG-Arena-JurassicParkTCG/assets/back.png",
+		"cardBackColor": "#231f20",
+		"extraCardBacks": {
+			"Character": "https://quasarcatfish.github.io/TCG-Arena-JurassicParkTCG/assets/character_back.png",
+			"Area": "https://quasarcatfish.github.io/TCG-Arena-JurassicParkTCG/assets/area_back.png"
+		},
+		"version": 1
+	},
+	"deckBuilding": {
+		"mainFilters": ["color", "cost", "type"],
+		"costCurveIgnoredTypes": ["Area"],
+		"formats": [
+			{
+				"title": "Standard Format",
+				"customCategories": ["Character Deck", "Area Deck"],
+				"legalityCode": "STD",
+				"gameplay": "Standard",
+				"deckRulesets": "Standard"
+			},
+			{
+				"title": "Prerelease Format",
+				"customCategories": ["Character Deck", "Area Deck"],
+				"legalityCode": "PRE",
+				"gameplay": "Standard",
+				"deckRulesets": "Standard"
+			}
+		],
+		"deckRulesets": {
+			"Standard": {
+				"checkCardLegality": true,
+				"general": {
+					"min": 60,
+					"max": 60,
+					"maxPerCard": 4
+				},
+				"categories": [
+					{
+						"category": "Character Deck",
+						"min": 3,
+						"max": 3,
+						"maxPerCard": 1
+					},
+					{
+						"category": "Area Deck",
+						"min": 10,
+						"max": 10,
+						"maxPerCard": 10
+					}
+				]
+			}
+		}
+	},
+	"gameplay": {
+		"Standard": {
+			"mulligan": {
+				"startingHandSize": 5,
+				"triggeredByButton": false,
+				"mulliganCount": {
+					"max": 1
+				},
+				"mulliganCycle": {
+					"info": "Mulligan cycle information string.",
+					"steps": ["toTop", "shuffle", "draw"],
+					"selectionRange": {
+						"min": 999
+					}
+				}
+			},
+			"newTurn": {
+				"drawOnStart": false,
+				"drawPerTurn": 1
+			},
+			"beforeGameStart": {
+				"initialBoardSetup": {
+					"0": [],
+					"1": [
+						{
+							"createCardId": "arxm-001",
+							"count": 2,
+							"destination": "AreaZone"
+						}
+					]
+				},
+				"chooseAnotherStartingPlayer": true
+			},
+			"sections": {
+				"layout": {
+					"direction": "column",
+					"content": [
+						{
+							"section": "Board"
+						},
+						{
+							"section": "AreaZone"
+						}
+					]
+				},
+				"sectionsDict": {
+					"DamageZone": {},
+					"AreaDeck": {},
+					"CharacterDeck": {},
+					"AreaZone": {},
+					"Field": {},
+					"ContinuousEffect": {},
+					"CharacterCard": {}
+				}
+			}
+		}
+	}
+}
