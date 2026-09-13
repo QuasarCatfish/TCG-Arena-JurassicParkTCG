@@ -24,14 +24,12 @@
 		"formats": [
 			{
 				"title": "Standard Format",
-				"customCategories": ["Character Deck", "Area Deck"],
 				"legalityCode": "STD",
 				"gameplay": "Standard",
 				"deckRulesets": "Standard"
 			},
 			{
 				"title": "Prerelease Format",
-				"customCategories": ["Character Deck", "Area Deck"],
 				"legalityCode": "PRE",
 				"gameplay": "Standard",
 				"deckRulesets": "Standard"
@@ -47,13 +45,13 @@
 				},
 				"categories": [
 					{
-						"category": "Character Deck",
+						"category": "Character",
 						"min": 3,
 						"max": 3,
 						"maxPerCard": 1
 					},
 					{
-						"category": "Area Deck",
+						"category": "Area",
 						"min": 10,
 						"max": 10,
 						"maxPerCard": 10
@@ -127,9 +125,6 @@
 											]
 										}
 									]
-								},
-								{
-									"section": "Deck"
 								}
 							]
 						},
@@ -141,9 +136,6 @@
 								},
 								{
 									"section": "AreaZone"
-								},
-								{
-									"section": "Trash"
 								}
 							]
 						}
@@ -199,17 +191,11 @@
 						"alignment": "CENTER",
 						"displayedTitle": "Character Card",
 						"logWhenPlayed": true
-					},
-					"Trash": {
-						"isHidden": "no",
-						"height": "DEFAULT",
-						"alignment": "DECK",
-						"displayedTitle": "Trash"
 					}
 				},
 				"categoriesAlreadyOnBoard": [
-					"Character Deck->CharacterDeck",
-					"Area Deck->AreaDeck"
+					"Character->CharacterDeck",
+					"Area->AreaDeck"
 				]
 			}
 		}
