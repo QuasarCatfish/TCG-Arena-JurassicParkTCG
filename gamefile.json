@@ -64,6 +64,7 @@
 	},
 	"gameplay": {
 		"Standard": {
+			"countersStartingValues": [],
 			"mulligan": {
 				"startingHandSize": 5,
 				"triggeredByButton": false,
@@ -100,10 +101,51 @@
 					"direction": "column",
 					"content": [
 						{
-							"section": "Field"
+							"direction": "row",
+							"content": [
+								{
+									"section": "DamageZone"
+								},
+								{
+									"direction": "column",
+									"content": [
+										{
+											"section": "Field"
+										},
+										{
+											"direction": "row",
+											"content": [
+												{
+													"section": "CharacterDeck"
+												},
+												{
+													"section": "CharacterCard"
+												},
+												{
+													"section": "ContinuousEffect"
+												}
+											]
+										}
+									]
+								},
+								{
+									"section": "Deck"
+								}
+							]
 						},
 						{
-							"section": "AreaZone"
+							"direction": "row",
+							"content": [
+								{
+									"section": "AreaDeck"
+								},
+								{
+									"section": "AreaZone"
+								},
+								{
+									"section": "Trash"
+								}
+							]
 						}
 					]
 				},
@@ -157,8 +199,18 @@
 						"alignment": "CENTER",
 						"displayedTitle": "Character Card",
 						"logWhenPlayed": true
+					},
+					"Trash": {
+						"isHidden": "no",
+						"height": "DEFAULT",
+						"alignment": "DECK",
+						"displayedTitle": "Trash"
 					}
-				}
+				},
+				"categoriesAlreadyOnBoard": [
+					"Character Deck->CharacterDeck",
+					"Area Deck->AreaDeck"
+				]
 			}
 		}
 	}
