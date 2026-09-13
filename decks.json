@@ -1,1 +1,234 @@
-[]
+[
+	{
+		"title": "BS-01 When Dinosaurs Ruled The Earth (Red/Green)",
+		"id": "685a1d4a-03e9-474c-9233-baed856633a7",
+		"cardCount": 73,
+		"createdAt": "2026-09-13T15:07:52.875Z",
+		"lastModifiedAt": "2026-09-13T18:40:52.797Z",
+		"game": "Jurassic Park TCG",
+		"format": ["Standard Format", "Prerelease Format"],
+		"deckList": {
+			"categoriesOrder": ["Dinosaur", "Event", "Character", "Area"],
+			"Dinosaur": [
+				{
+					"count": 2,
+					"id": "st01-001"
+				},
+				{
+					"count": 2,
+					"id": "st01-002"
+				},
+				{
+					"count": 4,
+					"id": "st01-003"
+				},
+				{
+					"count": 4,
+					"id": "st01-004"
+				},
+				{
+					"count": 4,
+					"id": "st01-005"
+				},
+				{
+					"count": 4,
+					"id": "st01-006"
+				},
+				{
+					"count": 4,
+					"id": "st01-007"
+				},
+				{
+					"count": 2,
+					"id": "st01-008"
+				},
+				{
+					"count": 2,
+					"id": "st01-009"
+				},
+				{
+					"count": 4,
+					"id": "st01-010"
+				},
+				{
+					"count": 4,
+					"id": "st01-011"
+				},
+				{
+					"count": 4,
+					"id": "st01-012"
+				},
+				{
+					"count": 4,
+					"id": "st01-013"
+				}
+			],
+			"Event": [
+				{
+					"count": 2,
+					"id": "st01-014"
+				},
+				{
+					"count": 4,
+					"id": "st01-015"
+				},
+				{
+					"count": 2,
+					"id": "st01-016"
+				},
+				{
+					"count": 2,
+					"id": "st01-017"
+				},
+				{
+					"count": 4,
+					"id": "st01-018"
+				},
+				{
+					"count": 2,
+					"id": "st01-019"
+				}
+			],
+			"Character": [
+				{
+					"count": 1,
+					"id": "st01-020"
+				},
+				{
+					"count": 1,
+					"id": "st01-021"
+				},
+				{
+					"count": 1,
+					"id": "st01-022"
+				}
+			],
+			"Area": [
+				{
+					"count": 6,
+					"id": "arxr-001"
+				},
+				{
+					"count": 4,
+					"id": "arxg-001"
+				}
+			]
+		}
+	},
+	{
+		"title": "BS-02 The Gate Is Open (Purple/Blue)",
+		"id": "685a1d4a-03e9-474c-9233-baed856633a7",
+		"cardCount": 73,
+		"createdAt": "2026-09-13T15:07:52.875Z",
+		"lastModifiedAt": "2026-09-13T21:08:17.372Z",
+		"game": "Jurassic Park TCG",
+		"format": ["Standard Format", "Prerelease Format"],
+		"deckList": {
+			"categoriesOrder": ["Dinosaur", "Event", "Character", "Area"],
+			"Dinosaur": [
+				{
+					"count": 2,
+					"id": "st02-001"
+				},
+				{
+					"count": 4,
+					"id": "st02-002"
+				},
+				{
+					"count": 4,
+					"id": "st02-003"
+				},
+				{
+					"count": 4,
+					"id": "st02-004"
+				},
+				{
+					"count": 2,
+					"id": "st02-005"
+				},
+				{
+					"count": 4,
+					"id": "st02-006"
+				},
+				{
+					"count": 4,
+					"id": "st02-007"
+				},
+				{
+					"count": 2,
+					"id": "st02-008"
+				},
+				{
+					"count": 2,
+					"id": "st02-009"
+				},
+				{
+					"count": 4,
+					"id": "st02-010"
+				},
+				{
+					"count": 4,
+					"id": "st02-011"
+				},
+				{
+					"count": 4,
+					"id": "st02-012"
+				},
+				{
+					"count": 4,
+					"id": "st02-013"
+				}
+			],
+			"Event": [
+				{
+					"count": 2,
+					"id": "st02-014"
+				},
+				{
+					"count": 2,
+					"id": "st02-015"
+				},
+				{
+					"count": 4,
+					"id": "st02-016"
+				},
+				{
+					"count": 2,
+					"id": "st02-017"
+				},
+				{
+					"count": 4,
+					"id": "st02-018"
+				},
+				{
+					"count": 2,
+					"id": "st02-019"
+				}
+			],
+			"Character": [
+				{
+					"count": 1,
+					"id": "st02-020"
+				},
+				{
+					"count": 1,
+					"id": "st02-021"
+				},
+				{
+					"count": 1,
+					"id": "st02-022"
+				}
+			],
+			"Area": [
+				{
+					"count": 6,
+					"id": "arxp-001"
+				},
+				{
+					"count": 4,
+					"id": "arxb-001"
+				}
+			]
+		}
+	}
+]
