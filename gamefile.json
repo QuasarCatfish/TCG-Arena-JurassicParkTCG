@@ -100,7 +100,7 @@
 					"direction": "column",
 					"content": [
 						{
-							"section": "Board"
+							"section": "Field"
 						},
 						{
 							"section": "AreaZone"
@@ -108,13 +108,56 @@
 					]
 				},
 				"sectionsDict": {
-					"DamageZone": {},
-					"AreaDeck": {},
-					"CharacterDeck": {},
-					"AreaZone": {},
-					"Field": {},
-					"ContinuousEffect": {},
-					"CharacterCard": {}
+					"DamageZone": {
+						"isHidden": "no",
+						"height": "DEFAULT",
+						"alignment": "CENTER",
+						"displayedTitle": "Damage Zone",
+						"noAutoPayTo": true,
+						"enterTapped": true,
+						"keepTappedNewTurn": true,
+						"logWhenPlayed": true
+					},
+					"AreaDeck": {
+						"isHidden": "opponent-only",
+						"height": "DEFAULT",
+						"alignment": "DECK",
+						"displayedTitle": "Area Deck"
+					},
+					"CharacterDeck": {
+						"isHidden": "opponent-only",
+						"height": "DEFAULT",
+						"alignment": "DECK",
+						"displayedTitle": "Character Deck"
+					},
+					"AreaZone": {
+						"isHidden": "no",
+						"height": "DEFAULT",
+						"alignment": "CENTER",
+						"displayedTitle": "Area Zone",
+						"logWhenPlayed": true
+					},
+					"Field": {
+						"isHidden": "no",
+						"height": "DEFAULT",
+						"alignment": "CENTER",
+						"displayedTitle": "Field",
+						"logWhenPlayed": true
+					},
+					"ContinuousEffect": {
+						"isHidden": "no",
+						"height": "DEFAULT",
+						"alignment": "CENTER",
+						"displayedTitle": "Continuous Effect",
+						"logWhenPlayed": true
+					},
+					"CharacterCard": {
+						"isHidden": "no",
+						"height": "DEFAULT",
+						"alignment": "CENTER",
+						"displayedTitle": "Character Card",
+						"logWhenPlayed": true
+					}
 				}
 			}
 		}

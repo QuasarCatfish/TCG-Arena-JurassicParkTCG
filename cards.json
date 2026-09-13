@@ -32,7 +32,7 @@
 		"type": "Area",
 		"cost": -1,
 		"color": ["colorless"],
-		"isisToken": true,
+		"isToken": true,
 		"_legal": {
 			"STD": true,
 			"PRE": true
