@@ -549,6 +549,556 @@
 			"PRE": true
 		}
 	},
+	"st02-001": {
+		"id": "st02-001",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Spinosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 5,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_BCdZynz3_6f28f7225ac509d3cdc12b251507aeb629daf759_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Spinosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 5,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-002": {
+		"id": "st02-002",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Lowland Velociraptor"
+				},
+				"type": "Dinosaur",
+				"cost": 3,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_0e4tDWrH_c934234fac2d41677f11d2e10855a430aafc493c_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Lowland Velociraptor"
+		},
+		"type": "Dinosaur",
+		"cost": 3,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-003": {
+		"id": "st02-003",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Allosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 5,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_9WEP3mLV_65efbafa43e40222d30b48bdb2f954ac7812e82f_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Allosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 5,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-004": {
+		"id": "st02-004",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Ceratosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 5,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_xPwHKXUT_a1b1df91b300cf6dfb45b5ece064029691bc7bd8_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Ceratosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 5,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-005": {
+		"id": "st02-005",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Concavenator"
+				},
+				"type": "Dinosaur",
+				"cost": 6,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_uXrspYAD_5e2ad692f6bdaec54c9b83b150c5b11a1844545a_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Concavenator"
+		},
+		"type": "Dinosaur",
+		"cost": 6,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-006": {
+		"id": "st02-006",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Carnotaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_y8VXjaYH_36d04adbd61057bff7b3274716065a9fb5808408_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Carnotaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 4,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-007": {
+		"id": "st02-007",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Dilophosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_naClq0w9_30df942e48eef5da2c7fc9f59f087150b65953a6_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Dilophosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 2,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-008": {
+		"id": "st02-008",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Highland Pteranodon"
+				},
+				"type": "Dinosaur",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_E6sYyDbL_292ff1eed567bcd97db65ba357eb1fe725937fa4_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Highland Pteranodon"
+		},
+		"type": "Dinosaur",
+		"cost": 4,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-009": {
+		"id": "st02-009",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Inland Pteranodon"
+				},
+				"type": "Dinosaur",
+				"cost": 3,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_zU7mINBS_ea7433c87c680df0bed166420b2cebf21b130582_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Inland Pteranodon"
+		},
+		"type": "Dinosaur",
+		"cost": 3,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-010": {
+		"id": "st02-010",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Mononykus"
+				},
+				"type": "Dinosaur",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_anwiV7Oj_e5b800fa3f2b2f377126e0ea39e1b1dcf76b29d5_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Mononykus"
+		},
+		"type": "Dinosaur",
+		"cost": 2,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-011": {
+		"id": "st02-011",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Gallimimus"
+				},
+				"type": "Dinosaur",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_Ue94OYaZ_552ad424785fcb618a5eed57789ceab04a902e6f_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Gallimimus"
+		},
+		"type": "Dinosaur",
+		"cost": 2,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-012": {
+		"id": "st02-012",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Microceratus"
+				},
+				"type": "Dinosaur",
+				"cost": 3,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_oSGwKqZm_2579e993c7debbf5c60e7a9b150a7ae375ed764a_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Microceratus"
+		},
+		"type": "Dinosaur",
+		"cost": 3,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-013": {
+		"id": "st02-013",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Dimorphodon"
+				},
+				"type": "Dinosaur",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_eJLuHRCE_8e9c2e15372a9d4a1a7d1b8ce5184061c75ff41f_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Dimorphodon"
+		},
+		"type": "Dinosaur",
+		"cost": 2,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-014": {
+		"id": "st02-014",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Jurassic Park Gate"
+				},
+				"type": "Event",
+				"cost": 3,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_OloC5Gyz_6f4133af502a254c960212bc1a03b6e491ad883b_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Jurassic Park Gate"
+		},
+		"type": "Event",
+		"cost": 3,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-015": {
+		"id": "st02-015",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Flare Stick"
+				},
+				"type": "Event",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_07VYj5gs_b560251121a5925c52b8215dcfd7faa68c654480_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Flare Stick"
+		},
+		"type": "Event",
+		"cost": 2,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-016": {
+		"id": "st02-016",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Barbasol Cream"
+				},
+				"type": "Event",
+				"cost": 3,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_8cy7h4V5_5334a966b69453e8ba2db228e47e69869dfaa938_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Barbasol Cream"
+		},
+		"type": "Event",
+		"cost": 3,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-017": {
+		"id": "st02-017",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Night Vision Goggles"
+				},
+				"type": "Event",
+				"cost": 1,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_smzCRtdb_0f3483cfbe2f9c0627bbd6ec082b30f6d0bcbb8c_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Night Vision Goggles"
+		},
+		"type": "Event",
+		"cost": 1,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-018": {
+		"id": "st02-018",
+		"face": {
+			"front": {
+				"name": {
+					"en": "10k Volt Fence"
+				},
+				"type": "Event",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_PONHrLUZ_e03ef6539096ad7038617c7f46739c13acda1c76_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "10k Volt Fence"
+		},
+		"type": "Event",
+		"cost": 4,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-019": {
+		"id": "st02-019",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Electric Shock"
+				},
+				"type": "Event",
+				"cost": 1,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_TxEL8fiU_51cef0b23fff9237ed22afd6f912887462005d31_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Electric Shock"
+		},
+		"type": "Event",
+		"cost": 1,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-020": {
+		"id": "st02-020",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Dr. Alan Grant"
+				},
+				"type": "Character",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_2GSqZ60E_55d90f4fc2197a5d1c5394efc3d2905967c9d9b2_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Dr. Alan Grant"
+		},
+		"type": "Character",
+		"cost": 2,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-021": {
+		"id": "st02-021",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Robert Muldoon"
+				},
+				"type": "Character",
+				"cost": 1,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_V6lOdzx3_d1f950647141158e86b2d3d23c0f3089e65c9b76_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Robert Muldoon"
+		},
+		"type": "Character",
+		"cost": 1,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st02-022": {
+		"id": "st02-022",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Dr. Ian Malcolm"
+				},
+				"type": "Character",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_2HFjrJQ1_8d4c8f90646be068a6cd48c015a9e03a2dd2e646_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Dr. Ian Malcolm"
+		},
+		"type": "Character",
+		"cost": 2,
+		"color": ["Blue"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
 	"arxr-001": {
 		"id": "arxr-001",
 		"face": {

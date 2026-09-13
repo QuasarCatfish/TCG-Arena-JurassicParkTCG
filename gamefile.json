@@ -16,7 +16,7 @@
 			"Character": "https://quasarcatfish.github.io/TCG-Arena-JurassicParkTCG/assets/character_back.png",
 			"Area": "https://quasarcatfish.github.io/TCG-Arena-JurassicParkTCG/assets/area_back.png"
 		},
-		"version": 3
+		"version": 4
 	},
 	"deckBuilding": {
 		"mainFilters": ["color", "cost", "type"],
