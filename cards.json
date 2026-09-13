@@ -3,16 +3,647 @@
 		"id": "st01-001",
 		"face": {
 			"front": {
-				"name": "Tyrannosaurus rex",
+				"name": {
+					"en": "Tyrannosaurus rex"
+				},
 				"type": "Dinosaur",
 				"cost": 7,
-				"image": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_TcQ0RkIr_808796df8072a0dc09ce2baa9de028ea0275a064_211x296.png"
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_TcQ0RkIr_808796df8072a0dc09ce2baa9de028ea0275a064_211x296.png"
+				}
 			}
 		},
-		"name": "Tyrannosaurus rex",
+		"name": {
+			"en": "Tyrannosaurus rex"
+		},
 		"type": "Dinosaur",
 		"cost": 7,
-		"color": ["red"],
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-002": {
+		"id": "st01-002",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Baryonyx"
+				},
+				"type": "Dinosaur",
+				"cost": 5,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_WMlJSmUA_b5914380990c11212d0d5c32be4805bbcce49364_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Baryonyx"
+		},
+		"type": "Dinosaur",
+		"cost": 5,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-003": {
+		"id": "st01-003",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Segisaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_tGJBqcND_7f2c672a11a5348a3447295985ac0f6e3b2be1b0_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Segisaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 2,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-004": {
+		"id": "st01-004",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Herrerasaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 3,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_kt3cqEdj_54b7e8e24745e521443c98e6ffbe4e4c71dafb46_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Herrerasaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 3,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-005": {
+		"id": "st01-005",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Proceratosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_7DlHTnfL_f95b6bf10ee8f007ba66dde278fa04abfcf7fc65_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Proceratosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 4,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-006": {
+		"id": "st01-006",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Compsognathus"
+				},
+				"type": "Dinosaur",
+				"cost": 1,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_J087YbTZ_86a4d29cd7bc20972e95f9933d1b6d153dea2098_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Compsognathus"
+		},
+		"type": "Dinosaur",
+		"cost": 1,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-007": {
+		"id": "st01-007",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Metriacanthosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_yIjKHEhp_e70c478b8a469a83673bcdfed16c3c3ed6ac7773_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Metriacanthosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 4,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-008": {
+		"id": "st01-008",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Triceratops"
+				},
+				"type": "Dinosaur",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_hkdQ6NeS_1a580be3deb4487924ad9ca4f273ad354dd0d482_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Triceratops"
+		},
+		"type": "Dinosaur",
+		"cost": 4,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-009": {
+		"id": "st01-009",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Brachiosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 6,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_I3b2e1rc_bcfbe518ce2777d875e583c78f4c2e66f5260bd3_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Brachiosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 6,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-010": {
+		"id": "st01-010",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Parasaurolophus"
+				},
+				"type": "Dinosaur",
+				"cost": 3,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_04hMiL2j_d8a05902b4a2f267c9487f3eb51a065428370a16_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Parasaurolophus"
+		},
+		"type": "Dinosaur",
+		"cost": 3,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-011": {
+		"id": "st01-011",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Stegosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 5,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_2klqcQmJ_28242926016c610432712d36b3f496d7fce05eaa_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Stegosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 5,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-012": {
+		"id": "st01-012",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Pachycephalosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_6qTLEvRD_00394b4fbdfb1c97a345fade537229645a4a7704_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Pachycephalosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 4,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-013": {
+		"id": "st01-013",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Ankylosaurus"
+				},
+				"type": "Dinosaur",
+				"cost": 5,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_yXT8ZsMV_572ed1c9af2fb1f065738c9063bf5cd00fc06551_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Ankylosaurus"
+		},
+		"type": "Dinosaur",
+		"cost": 5,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-014": {
+		"id": "st01-014",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Wrath of the T-Rex"
+				},
+				"type": "Event",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_YVtGU3HZ_d78c18c531fe81d25fced587dac28a9dd529f0ab_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Wrath of the T-Rex"
+		},
+		"type": "Event",
+		"cost": 2,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-015": {
+		"id": "st01-015",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Endangered Goat"
+				},
+				"type": "Event",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_06EhQxdr_e48f5daa7004018838cf46e40b745ac2889832a2_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Endangered Goat"
+		},
+		"type": "Event",
+		"cost": 2,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-016": {
+		"id": "st01-016",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Closer Than They Appear"
+				},
+				"type": "Event",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_CpzWmbvw_706dc30992a3ee053a6ba524a80446fe32774977_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Closer Than They Appear"
+		},
+		"type": "Event",
+		"cost": 4,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-017": {
+		"id": "st01-017",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Raptor Claw"
+				},
+				"type": "Event",
+				"cost": 1,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_2IelT6m1_fcb38fcbe2c9ff8ae94f7315f9b0d6939768d082_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Raptor Claw"
+		},
+		"type": "Event",
+		"cost": 1,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-018": {
+		"id": "st01-018",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Triceratops' Infection"
+				},
+				"type": "Event",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_K0tzMO9l_5c00da231cd3086e1fffcaa129aac59f6edf3c9c_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Triceratops' Infection"
+		},
+		"type": "Event",
+		"cost": 2,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-019": {
+		"id": "st01-019",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Mosquito in Amber"
+				},
+				"type": "Event",
+				"cost": 4,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_6MBl7wrX_17daa002280460f5db0d48bd625123525fd64f20_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Mosquito in Amber"
+		},
+		"type": "Event",
+		"cost": 4,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-020": {
+		"id": "st01-020",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Dr. Ellie Sattler"
+				},
+				"type": "Character",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_OVvXDBE6_0c445d83a132f274ccbcfe772eb23c0bf2d68777_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Dr. Ellie Sattler"
+		},
+		"type": "Character",
+		"cost": 2,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-021": {
+		"id": "st01-021",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Dr. John Hammond"
+				},
+				"type": "Character",
+				"cost": 2,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_7vsMUaVp_397280aab7b2f85af0730741eef9ec432c0a7f73_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Dr. John Hammond"
+		},
+		"type": "Character",
+		"cost": 2,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"st01-022": {
+		"id": "st01-022",
+		"face": {
+			"front": {
+				"name": {
+					"en": "Dr. Sarah Harding"
+				},
+				"type": "Character",
+				"cost": 1,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_IlqyxC9G_b7ec9aa3598c9d59729e83d564909c733eed5fa4_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "Dr. Sarah Harding"
+		},
+		"type": "Character",
+		"cost": 1,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"arxr-001": {
+		"id": "arxr-001",
+		"face": {
+			"front": {
+				"name": {
+					"en": "RED"
+				},
+				"type": "Area",
+				"cost": 0,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_OmN9xvMK_12eed1bd3eddd6a06dd9e89b7c55e8d708fd72d2_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "RED"
+		},
+		"type": "Area",
+		"cost": 0,
+		"color": ["Red"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"arxg-001": {
+		"id": "arxg-001",
+		"face": {
+			"front": {
+				"name": {
+					"en": "GREEN"
+				},
+				"type": "Area",
+				"cost": 0,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_hVXZjAcf_f1f3adce23b540037c5768b0e5e7a50a7be7d1cd_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "GREEN"
+		},
+		"type": "Area",
+		"cost": 0,
+		"color": ["Green"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"arxp-001": {
+		"id": "arxp-001",
+		"face": {
+			"front": {
+				"name": {
+					"en": "PURPLE"
+				},
+				"type": "Area",
+				"cost": 0,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_5GgiUYsh_27c390af10fc9d97d07c1103ad393c9cc69c80d9_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "PURPLE"
+		},
+		"type": "Area",
+		"cost": 0,
+		"color": ["Purple"],
+		"_legal": {
+			"STD": true,
+			"PRE": true
+		}
+	},
+	"arxb-001": {
+		"id": "arxb-001",
+		"face": {
+			"front": {
+				"name": {
+					"en": "BLUE"
+				},
+				"type": "Area",
+				"cost": 0,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_AWt1JlM7_7d69d56c6005cb16e5ae31aa280fb691f5d54aca_211x296.png"
+				}
+			}
+		},
+		"name": {
+			"en": "BLUE"
+		},
+		"type": "Area",
+		"cost": 0,
+		"color": ["Blue"],
 		"_legal": {
 			"STD": true,
 			"PRE": true
@@ -22,16 +653,22 @@
 		"id": "arxm-001",
 		"face": {
 			"front": {
-				"name": "MARKER",
+				"name": {
+					"en": "MARKER"
+				},
 				"type": "Area",
-				"cost": -1,
-				"image": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_gSrmFY5h_f926f891071a7307c47975a86ef17da4f5a705bf_211x296.png"
+				"cost": 0,
+				"image": {
+					"en": "https://jurassicparkcard.com/data/file/4in1_card/thumb-32230957_gSrmFY5h_f926f891071a7307c47975a86ef17da4f5a705bf_211x296.png"
+				}
 			}
 		},
-		"name": "MARKER",
+		"name": {
+			"en": "MARKER"
+		},
 		"type": "Area",
-		"cost": -1,
-		"color": ["colorless"],
+		"cost": 0,
+		"color": [],
 		"isToken": true,
 		"_legal": {
 			"STD": true,

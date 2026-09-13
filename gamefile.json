@@ -145,7 +145,7 @@
 					"DamageZone": {
 						"isHidden": "no",
 						"height": "DEFAULT",
-						"alignment": "CENTER",
+						"alignment": "DECK",
 						"displayedTitle": "Damage Zone",
 						"noAutoPayTo": true,
 						"enterTapped": true,
@@ -196,7 +196,19 @@
 				"categoriesAlreadyOnBoard": [
 					"Character->CharacterDeck",
 					"Area->AreaDeck"
-				]
+				],
+				"autoPlayFromHand": {
+					"Dinosaur": "Field",
+					"Event": "Stack",
+					"Character": "CharacterZone",
+					"Area": "AreaZone"
+				},
+				"autoPlayFromStack": {
+					"Dinosaur": "Field",
+					"Event": "Discard",
+					"Character": "CharacterZone",
+					"Area": "AreaZone"
+				}
 			}
 		}
 	}
